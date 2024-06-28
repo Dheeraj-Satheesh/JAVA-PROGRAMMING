@@ -1,1 +1,9 @@
 *.class
+*.exe
+/.vscode*.exe
+/.o
+*.yy.c
+*tab.c
+*tab.h
+*.output
+*.out
